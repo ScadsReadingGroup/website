@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ScadsReadingGroup.github.io/sitemap.xml
